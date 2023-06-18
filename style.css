@@ -1,0 +1,17 @@
+body{
+    background-color:greenyellow;
+}
+.main{
+    margin-left: 230px;
+    margin-top: 1px;
+}
+.box{
+    border: 2px solid black;
+    margin-top: 200px;
+    height: 400px;
+    width: 500px;
+    background-color: green;
+    margin-left: 580px;
+    margin-top:15%;
+    margin-left:20%;
+}
